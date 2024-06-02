@@ -10,6 +10,5 @@ discord: @iircc
 
 instagram: @uzrboot
 
-![gmail](https://github.com/ChainDev162/ChainDev162/assets/85769596/e48e6f6e-6efd-4df8-ae04-14efb83de80d)
 gmail: utemp362@gmail.com
 
