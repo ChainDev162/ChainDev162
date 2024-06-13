@@ -6,7 +6,7 @@ i also play mc, so if anyone wanna pvp hmu ‼️
 i mean sure, **even if you make money off it or make it closed source.** :shrug:
 
 ## where can i reach you?
-discord: @iircc
+discord: @fentables.
 
 instagram: @uzrboot
 
