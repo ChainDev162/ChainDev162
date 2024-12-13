@@ -14,4 +14,4 @@ instagram: @uzrboot
 gmail: utemp362@gmail.com
 
 ## what are you working on right now?
-[my telegram scraper](https://github.com/ChainDev162/TelegramScraper.git)
+~~[my telegram scraper](https://github.com/ChainDev162/TelegramScraper.git)~~
